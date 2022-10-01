@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"body"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"i",
+				"inherit\tfont"
+			],
+			[
+				"text-dec",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"e",
+				"extra-expanded\tfont-stretch"
+			],
+			[
+				"r",
+				"rotate3d"
+			],
+			[
+				"scale",
+				"scale3d()\ttransform"
+			],
+			[
+				"trs",
+				"translate3d()\ttransform"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"sk",
+				"skewX()\ttransform"
+			],
+			[
+				"ro",
+				"rotateX()\ttransform"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"C",
+				"color\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"c",
+				"center\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"fr",
+				"frameset\tTag"
+			],
+			[
+				"s",
+				"scrolling\tAttr"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"t",
+				"t2"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"is",
+				"isha"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"backg",
+				"background-repeat\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"li",
+				"list-style-position\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ishaclass/home.php",
+		"/C/xampp/htdocs/ishaclass/chess.php",
+		"/C/xampp/htdocs/ishaclass/combination.php",
+		"/C/xampp/htdocs/ishaclass/numbers.php",
+		"/C/xampp/htdocs/ishaclass/classlogin.php",
+		"/C/xampp/htdocs/ishaclass/pattern.php",
+		"/C/xampp/htdocs/ishaclass/table.php",
+		"/C/xampp/htdocs/ishaclass/username.php",
+		"/C/xampp/htdocs/ishaclass/Accept.php",
+		"/C/xampp/htdocs/isha1.php",
+		"/C/xampp/htdocs/welfare/home.php",
+		"/C/xampp/htdocs/php_programs/program1.php",
+		"/C/Users/admin/AppData/Roaming/Microsoft/Windows/Recent/form_2",
+		"/D/ADMIN USER DATA/Downloads/form_1.sql",
+		"/E/Project/Donor/js1file.js",
+		"/E/Project/Donor/cssfile.css",
+		"/E/Project/Donor/validation.js",
+		"/E/Project/Donor/contactme.js",
+		"/D/ADMIN USER DATA/Desktop/Donor.html",
+		"/E/Project/TRY2/file1.css",
+		"/D/ADMIN USER DATA/Desktop/mycssfile.css",
+		"/D/ADMIN USER DATA/Desktop/myfile.html",
+		"/E/Project/TRY2/Js5.js",
+		"/E/Project/TRY2/Js4.js",
+		"/E/Project/TRY2/Js3main.js",
+		"/E/Project/TRY2/Js2.js",
+		"/E/Project/TRY2/jquery.min.js",
+		"/D/ADMIN USER DATA/Desktop/try2.html",
+		"/E/Project/try/j5.js",
+		"/E/Project/try/j4.js",
+		"/E/Project/try/j3.js",
+		"/E/Project/try/j2.js",
+		"/E/Project/try/j1.js",
+		"/E/Project/try/a1.css",
+		"/D/ADMIN USER DATA/Desktop/try1.html",
+		"/D/ADMIN USER DATA/Desktop/pr1.html",
+		"/E/Project/styles.css",
+		"/D/ADMIN USER DATA/Desktop/no-sidebar.html",
+		"/D/ADMIN USER DATA/Desktop/index.html",
+		"/D/ADMIN USER DATA/Desktop/project1.html",
+		"/D/ADMIN USER DATA/Desktop/a.js",
+		"/D/ADMIN USER DATA/Desktop/a.css",
+		"/D/ADMIN USER DATA/Desktop/a.html",
+		"/D/ADMIN USER DATA/Desktop/script.js",
+		"/D/ADMIN USER DATA/Desktop/style.css",
+		"/D/ADMIN USER DATA/Desktop/mainpage.html",
+		"/D/ADMIN USER DATA/Desktop/p1.html",
+		"/E/isha1.php",
+		"/D/ADMIN USER DATA/Desktop/js1.html",
+		"/D/ADMIN USER DATA/Desktop/is.php",
+		"/D/ADMIN USER DATA/Desktop/1st prac.js",
+		"/D/ADMIN USER DATA/Desktop/pr3.html",
+		"/D/ADMIN USER DATA/Desktop/ib.html",
+		"/D/ADMIN USER DATA/Desktop/js.html",
+		"/D/ADMIN USER DATA/Desktop/final.html",
+		"/D/ADMIN USER DATA/Desktop/stud.xml",
+		"/E/sem III/WPD/isha.xml",
+		"/E/sem III/WPD/Rule.css",
+		"/D/ADMIN USER DATA/Desktop/student.css",
+		"/D/ADMIN USER DATA/Desktop/project.html",
+		"/D/ADMIN USER DATA/Desktop/wpd92copy.html",
+		"/D/ADMIN USER DATA/Desktop/wpd9.html",
+		"/D/ADMIN USER DATA/Desktop/pract9.html",
+		"/D/ADMIN USER DATA/Desktop/pr8wpd.html",
+		"/D/ADMIN USER DATA/Desktop/pr7.html",
+		"/D/ADMIN USER DATA/Desktop/frame2.html",
+		"/D/ADMIN USER DATA/Desktop/frame1.html",
+		"/D/ADMIN USER DATA/Desktop/frame.html",
+		"/D/ADMIN USER DATA/Desktop/pr5.html",
+		"/D/ADMIN USER DATA/Desktop/stylesheet.css",
+		"/D/ADMIN USER DATA/Desktop/bgchange.html",
+		"/D/ADMIN USER DATA/Desktop/wpd4.html",
+		"/D/ADMIN USER DATA/Desktop/bgimage.html",
+		"/D/ADMIN USER DATA/Desktop/pract4.html",
+		"/D/ADMIN USER DATA/Desktop/practical2own.html",
+		"/D/ADMIN USER DATA/Desktop/ishapract2.html",
+		"/D/ADMIN USER DATA/Desktop/practical2"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
